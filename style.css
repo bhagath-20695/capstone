@@ -1,0 +1,94 @@
+* {
+  margin: auto;
+  padding: auto;
+}
+
+h1 {
+  font-family:'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  height: 60px;
+  width: auto;
+  color: whitesmoke;
+  background-color: green;
+
+}
+
+.sec{
+  position: relative;
+  top: 80px;
+  padding-left: 50px;
+
+}
+.button{
+
+  border: 0;
+  font-size:x-large;
+  font-weight: 400;
+  padding: 10px 10px;
+  
+}
+.button12{
+  background-color: green;
+  color: white;
+}
+.button12:hover{
+  background: rgb(87, 208, 87);
+}
+
+.button2{
+  background-color: green;
+  color: white;
+}
+.button2:hover{
+  background: rgb(87, 208, 87);
+}
+.button3{
+  background-color: green;
+  color: white;
+}
+.button3:hover{
+  background: rgb(87, 208, 87);
+}
+.button4{
+  background-color: green;
+  color: white;
+}
+.button4:hover{
+  background: rgb(87, 208, 87);
+}
+.button5{
+  background-color: green;
+  color: white;
+}
+.button5:hover{
+  background: rgb(87, 208, 87);
+}
+.aboutus{
+  position: relative;
+  bottom: 380px;
+  padding-left: 400px;
+  font-size: large;
+
+}
+h4{
+  color: darkgreen;
+}
+.image{
+  position: relative;
+  margin-right: auto;
+  bottom: 400px;
+  padding-left: 290px;
+  width:0px;
+  height: 00px;
+  
+}
+
+.gradient-custom {
+  /* fallback for old browsers */
+  background: #f6d365;
+  
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1));
+  
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(to right bottom, rgba(246, 211, 101, 1), rgba(253, 160, 133, 1))
+  }
